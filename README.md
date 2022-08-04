@@ -1,5 +1,6 @@
-### STRESS_BUZZ_GAMES
-I developed 6 games. #those are
+# PROJECT:STRESS_BUZZ_GAMES
+I developed 6 games.
+#those are
 1.GUESS THE NUMBER BY USER
 2.GUESS THE NUMBER BY COMPUTER
 3.ROCK-PAPER-SCISSOR
